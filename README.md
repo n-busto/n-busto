@@ -1,4 +1,4 @@
-# Hi, I’m @nBusto7
+# Hi, I’m Nicanor
 
 ## About me
 
