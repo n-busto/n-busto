@@ -1,4 +1,4 @@
-# Hi, I’m Nicanor
+# Hi, I’m Nicanor :wave:
 
 ## About me
 
