@@ -55,19 +55,30 @@ operations, we was too responsibles of code's good quality.
     * Hexagonal architechture
     * Desing patterns
 
-- As last, my actual adventure is a project where I came with the promise on doing more architechture stuff, but I'm simply building technical documents based on the information from the core and the needs of the REST APIs.
+- After that I became a API designer, my main task was creating technical documents for the delevopers of a Mule ESB in order to connect APIs with business functionalities using the API First paradigm.
 
   ***Tech Stack:***
     * ApenAPI
     * Swagger
     * API Connect
     * APIGee
+
+- Actually i'm backend developer on Spring boot in a card digitalization project.
+
+  ***Tech Stack:***
+    * Java 17
+    * Spring boot 3
+    * API Rest
+    * PostgreSQL
+    * Swagger
+    * Mockito
+    * MockMvc
+    * Jira
+    * Confluence
+    * Maven
+    * GitHub
+    * Postman
  
 And that's me, thanks for reading so far, if you are interested in more you can take a look on my [LinkedIn](https://www.linkedin.com/in/nicanor-manuel-busto-rodriguez-43703712b/), where all this experience is more detailed.
 
 Greetings!
-
-<!---
-nBusto7/nBusto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
